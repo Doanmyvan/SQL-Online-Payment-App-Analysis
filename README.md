@@ -37,5 +37,5 @@ Key analyses include:
 5. **Top 3 Payment Methods**: money in app, local card and banking account
 6. **Transaction Failure**: The failure rate was lowest in April at 4.98%, and highest in December, reaching 13.28%.
    
-## 📊 Corhort Analysis - Visualizations
+## 📊 Cohort Analysis - Visualizations
 <img width="1643" height="732" alt="Screenshot 2025-09-17 213821" src="https://github.com/user-attachments/assets/49bd5ff7-3ce7-4f4e-b634-0d3486de8636" />
