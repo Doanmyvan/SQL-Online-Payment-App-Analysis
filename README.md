@@ -36,7 +36,7 @@ Key analyses include:
 4. **Top Products**: the product group with the highest total payments was “Top-up Account”
 5. **Top 3 Payment Methods**: money in app, local card and banking account
 6. **Transaction Failure**: The failure rate was lowest in April at 4.98%, and highest in December, reaching 13.28%.
-7. 
+   
 ## 🔑 Customer retention Insights
 Customers acquired in January show the highest return rate (43-55%), while those from February, March, and August have the lowest (29-37%)
 
