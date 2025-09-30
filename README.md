@@ -1,7 +1,7 @@
 # 📊 2018 Customer Transaction & Retention Analysis
 ## 🔍 Overview
 
-This project analyzes customer behavior and transactions of an **online payment app** in 2018 **(Dataset size: 144 MB )**, including user activity, payment totals, product performance, transaction success/failure, and retention rates. The goal is to provide insights for marketing, product teams with an actionable suggestion to **improve customer retention rate**. 
+This project analyzes customer behavior and transactions of an **online payment app** in 2018, including user activity, payment totals, product performance, transaction success/failure, and retention rates. The goal is to provide insights for marketing, product teams with an actionable suggestion to **improve customer retention rate**. 
 
 ## 🎯 Objectives
 Key analyses include:
