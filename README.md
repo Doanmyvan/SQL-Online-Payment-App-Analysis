@@ -36,7 +36,7 @@ Key analyses include:
 4. **Top Products**: the product group with the highest total payments was “Top-up Account”
 5. **Top 3 Payment Methods**: money in app, local card and banking account
 6. **Transaction Failure**: The failure rate was lowest in April at 4.98%, and highest in December, reaching 13.28%.
-7. **Cordort Analysis**: The January cohort shows the strongest retention (50% at month 11), while August has the weakest early retention (31%). Early-year cohorts outperform mid-year ones, and many customers return later, suggesting reactivation driven by seasonality, campaigns, or usage cycles.
+7. **Cordort Analysis**: The January cohort shows the strongest retention (50% at month 1), while August has the weakest early retention (31%). Early-year cohorts outperform mid-year ones, and many customers return later, suggesting reactivation driven by seasonality, campaigns, or usage cycles.
    
 ## 📊 Cohort Analysis - Visualizations
 <img width="1643" height="732" alt="Screenshot 2025-09-17 213821" src="https://github.com/user-attachments/assets/49bd5ff7-3ce7-4f4e-b634-0d3486de8636" />
