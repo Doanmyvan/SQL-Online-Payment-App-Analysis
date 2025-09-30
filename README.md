@@ -1,7 +1,7 @@
 # 📊 2018 Customer Transaction & Retention Analysis
 ## 🔍 Overview
 
-This project analyzes customer behavior and transactions of an **online payment app** in 2018, including user activity, payment totals, product performance, transaction success/failure, and retention rates. The goal is to provide insights for marketing, product teams.
+This project analyzes customer behavior and transactions of an **online payment app** in 2018 **(Dataset size: 144 MB )**, including user activity, payment totals, product performance, transaction success/failure, and retention rates. The goal is to provide insights for marketing, product teams with an actionable suggestion to **improve customer retention rate**. 
 
 ## 🎯 Objectives
 Key analyses include:
@@ -18,7 +18,7 @@ Key analyses include:
 ## 🗄️ Data Source
 **Local Host Database** – All data is stored on a local SQL Server instance.
 
-## 🗂️ Dataset
+## 🗂️ Dataset (144 MB)
 1. **payment_history_18**: Customer transactions in 2018
 2. **payment_history_17**: Transactions in 2017 
 3. **Product**: Product details
@@ -29,14 +29,20 @@ Key analyses include:
 - **T-SQL** – For data extraction, aggregation, and cohort analysis.
 - **Excel** – For pivot tables, visualization.
 
-## 🔑 Key Insights
+## 🔑 Customer behaviors Insights
 1. **Active Users & Transactions**: 10.432 users completed 245.709 transactions in 2018.
 2. **High-Value users**: The top-spending user paid a total of 3,102,506,000 VND, while the lowest-spending user paid just 1,000 VND.
 3. **Active users**: The most active user completed 1,460 transactions, while the least active users made just 1 transaction
 4. **Top Products**: the product group with the highest total payments was “Top-up Account”
 5. **Top 3 Payment Methods**: money in app, local card and banking account
 6. **Transaction Failure**: The failure rate was lowest in April at 4.98%, and highest in December, reaching 13.28%.
-7. **Cordort Analysis**: The January cohort shows the strongest retention (50% at month 1), while August has the weakest early retention (31%). Early-year cohorts outperform mid-year ones, and many customers return later, suggesting reactivation driven by seasonality, campaigns, or usage cycles.
-   
+7. 
+## 🔑 Customer retention Insights
+Customers acquired in January show the highest return rate (43-55%), while those from February, March, and August have the lowest (29-37%)
+
+## 💡 Recommendation: 
+
+Suggested analyzing customer segments to uncover drivers of high return rates and recommend targeted acquisition and promotion strategies.
+
 ## 📊 Cohort Analysis - Visualizations
 <img width="1643" height="732" alt="Screenshot 2025-09-17 213821" src="https://github.com/user-attachments/assets/49bd5ff7-3ce7-4f4e-b634-0d3486de8636" />
